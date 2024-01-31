@@ -1,7 +1,9 @@
 # Linux System User Management Script
 
 This Bash script provides a user-friendly command-line interface to manage user accounts, groups, and perform backups on a Linux system. The script includes options to add, delete, and modify user accounts, create and manage groups, and perform backups of specified directories.
-[Output](https://github.com/gauravmazumdar21/User-Management-and-Backup/blob/main/Output%20Img.PNG)
+
+![Output](https://github.com/gauravmazumdar21/User-Management-and-Backup/blob/main/Output%20Img.PNG)
+
 ## Usage
 Save this script to a file in Linux system and make it executable using 
 ```bash
